@@ -1,0 +1,5 @@
+.idea
+venv
+__pycache__
+week_1/__pycache__
+week_2/__pycache__
